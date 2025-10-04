@@ -33,11 +33,16 @@ A minimal Swift client for BackgroundErase.NET with a polished iOS demo app. Pic
 
 Option A: Clone this repo
 ```shell
-git clone --no-checkout https://github.com/PramaLLC/Swift.git
-cd Swift
+git clone --no-checkout https://github.com/PramaLLC/ben-api-other-integrations.git
+
+cd ben-api-other-integrations
+
 git sparse-checkout init --cone
+
 git sparse-checkout set Swift
+
 git checkout main
+
 ```
 - Open the Xcode project/workspace in the Swift folder
 
