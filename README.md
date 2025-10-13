@@ -1,6 +1,6 @@
 # BEN API Documentation and Integrations
 
-This repo demonstrates how to call the ben background removal model from many languages and environments. It shows a consistent, minimal pattern: send an HTTP POST with your API token and an image, receive a cutout image in response.
+This repo demonstrates how to call the ben background removal model from many languages and environments. It shows a consistent, minimal pattern: send an HTTPs POST with your API token and an image, receive a cutout image in response.
 
 Supported Integrations:
 
