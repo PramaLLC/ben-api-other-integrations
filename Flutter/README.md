@@ -124,7 +124,6 @@ pubspec.yaml (key parts)
 ```yaml
 environment:
   sdk: ">=3.4.0 <4.0.0"
-
 dependencies:
   flutter:
     sdk: flutter

@@ -9,7 +9,7 @@ import 'save_result_nonweb.dart'
 import 'ben_client.dart';
 
 /// ── SET YOUR API KEY HERE ────────────────────────────────────────────────────
-const String kBenApiKey = 'fa231f8b62811978c0a5dd042e0b6ca29ddbc8861629d15109f43c0cf79907b2';
+const String kBenApiKey = 'YOUR_API_KEY_HERE';
 /// ─────────────────────────────────────────────────────────────────────────────
 
 void main() {
